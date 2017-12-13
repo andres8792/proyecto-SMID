@@ -1,0 +1,39 @@
+p {
+color:#43D0F7;
+font-size:50px;
+}
+
+
+div{ width:100px}
+div{height:70px}
+div{margin:30px}
+div{padding:7px }
+div{border:5px color:#CC0033}
+
+div{font-size:21px}
+div a {color:#39969C;}
+div{display:inline-block;}
+div {position:relative}
+div {top:-78px}
+div {bottom:}
+div {right:}
+div {left:300px}
+label{color:#43D0F7;}
+	
+	a{color:#43D0F7;}
+
+body{color:#ffffff;
+	background-image:url(../inagenessmit/fondo5.jpg) }
+
+body{background-repeat:no-repeat}
+
+body{background-position:0px 0px }
+
+h1,h2,h3,h4,h5,h6{
+color:#03DF3E;}
+
+
+
+title {
+	color:black;
+}

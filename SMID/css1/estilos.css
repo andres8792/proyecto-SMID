@@ -1,0 +1,34 @@
+p {
+color:#00C78E;
+font-size:50px;
+}
+
+div{ width:110px}
+div{height:70px}
+div{margin:30px}
+div{padding:7px }
+div{border:5px color:#CC0033}
+/*div {background:#38F538;}*/
+div{font-size:25px}
+div a {color:#39969C;}
+div{display:inline-block;}
+div {position:relative}
+div {top:-80px}
+div {bottom:}
+div {right:}
+div {left:140px}
+	
+
+body{background-color:#011A37}
+body{background-image:url(../inagenessmit/logo.PNG) }
+body{background-repeat:no-repeat;}
+body{background-position:250px 200px }
+
+h1,h2,h3,h4,h5,h6{
+color:#03DF3E;}
+
+
+
+title {
+	color:black;
+}
